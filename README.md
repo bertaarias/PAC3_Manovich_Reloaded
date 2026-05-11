@@ -15,6 +15,8 @@ En aquest treball s’analitzen dos casos contemporanis d’hibridació digital,
 
 # Cas 1 — Letterboxd
 
+![Logo Letterboxd](images/letterboxd-logo.png)
+
 ## Descripció
 
 Letterboxd és una plataforma digital centrada en el registre, valoració i descoberta de pel·lícules que combina característiques pròpies de les xarxes socials amb eines de crítica cinematogràfica i sistemes de bases de dades. Els usuaris poden marcar les pel·lícules que han vist, crear llistes personalitzades, escriure ressenyes, seguir altres perfils i rebre recomanacions basades en els seus interessos i activitats dins la plataforma.
