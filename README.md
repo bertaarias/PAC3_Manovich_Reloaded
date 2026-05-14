@@ -60,16 +60,6 @@ En definitiva, Letterboxd exemplifica molt bé la idea de Manovich que el softwa
 
 ![Captura de Letterboxd](images/letterboxd-screen.png)
 
-## Recursos
-
-- [Web oficial de Letterboxd](https://letterboxd.com/)
-- [El fenómeno Letterboxd y la nueva crítica de cine](https://www.ecartelera.com/noticias/fenomeno-letterboxd-hemos-hecho-critica-cine-espacio-83627/)
-- [El fenómeno Letterboxd: más que una página para cinéfilos](https://fintualist.com/chile/cultura/cine-series/el-fenomeno-letterboxd-mas-que-una-pagina-para-cinefilos/)
-- [Letterboxd, Film Discussion Platform, Sells to Investment Firm](https://www.hollywoodreporter.com/business/digital/film-discussion-review-platform-letterboxd-sells-investment-firm-1235604433/)
-- [The Letterboxd Phenomenon: Why Film Lovers Love This App](https://www.screenhub.com.au/news/features/the-letterboxd-phenomenon-why-film-lovers-love-this-app-2659530/)
-  
----
-
 # Cas 2 — Figma
 
 ![Logo Figma](images/figma-logo.png)
@@ -117,12 +107,6 @@ També és interessant observar com Figma ha modificat la relació entre disseny
 
 ## Recursos
 
-- [Web oficial de Figma](https://www.figma.com/)
-- [The Figma Effect: How Collaborative Design Is Reshaping Brand Architecture](https://code3.com/resources/the-figma-effect-how-collaborative-design-is-reshaping-brand-architecture/)
-- [Inside Figma: The Backbone of Modern Design Collaboration](https://medium.com/@solinda90/inside-figma-the-backbone-of-modern-design-collaboration-1ee5a2ae1227)
-- [How Figma Built a Collaborative Design Empire and Disrupted Adobe](https://startupshortcut.com/knowledge-base/how-figma-built-a-collaborative-design-empire-and-disrupted-adobe)
-- [The Design Renaissance: Figma’s IPO and the New Era of Collaborative Creation](https://www.neuralcapital.ai/articles/the-design-renaissance-figma-s-ipo-and-the-new-era-of-collaborative-creation)
-
 ---
 
 # Conclusions
@@ -137,3 +121,16 @@ Tots dos casos demostren que el software actual no només serveix per reproduir 
 
 En definitiva, les teories de Manovich continuen sent útils per entendre molts dels entorns digitals actuals. Tant Letterboxd com Figma evidencien que el software s’ha convertit en una infraestructura central de la cultura contemporània, capaç de reorganitzar no només els mitjans, sinó també les formes de participació, creativitat i relació social dins del món digital.
 
+# Bibliografia i webgrafia
+
+Manovich, Lev (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+eCartelera (2024). «El fenómeno Letterboxd y la nueva crítica de cine». [Recurs en línia]. Disponible a: https://www.ecartelera.com/noticias/fenomeno-letterboxd-hemos-hecho-critica-cine-espacio-83627/
+Fintualist (2024). «El fenómeno Letterboxd: más que una página para cinéfilos». [Recurs en línia]. Disponible a: https://fintualist.com/chile/cultura/cine-series/el-fenomeno-letterboxd-mas-que-una-pagina-para-cinefilos/
+The Hollywood Reporter (2023). «Letterboxd, Film Discussion Platform, Sells to Investment Firm». [Recurs en línia]. Disponible a: https://www.hollywoodreporter.com/business/digital/film-discussion-review-platform-letterboxd-sells-investment-firm-1235604433/
+ScreenHub (2024). «The Letterboxd Phenomenon: Why Film Lovers Love This App». [Recurs en línia]. Disponible a: https://www.screenhub.com.au/news/features/the-letterboxd-phenomenon-why-film-lovers-love-this-app-2659530/
+Letterboxd (s.d.). «Letterboxd». [Consulta: maig 2026]. Disponible a: https://letterboxd.com/
+Code3 (2024). «The Figma Effect: How Collaborative Design Is Reshaping Brand Architecture». [Recurs en línia]. Disponible a: https://code3.com/resources/the-figma-effect-how-collaborative-design-is-reshaping-brand-architecture/
+Medium (2024). «Inside Figma: The Backbone of Modern Design Collaboration». [Recurs en línia]. Disponible a: https://medium.com/@solinda90/inside-figma-the-backbone-of-modern-design-collaboration-1ee5a2ae1227
+Startup Shortcut (2024). «How Figma Built a Collaborative Design Empire and Disrupted Adobe». [Recurs en línia]. Disponible a: https://startupshortcut.com/knowledge-base/how-figma-built-a-collaborative-design-empire-and-disrupted-adobe
+Neural Capital (2024). «The Design Renaissance: Figma’s IPO and the New Era of Collaborative Creation». [Recurs en línia]. Disponible a: https://www.neuralcapital.ai/articles/the-design-renaissance-figma-s-ipo-and-the-new-era-of-collaborative-creation
+Figma (s.d.). «Figma». [Consulta: maig 2026]. Disponible a: https://www.figma.com/
