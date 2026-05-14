@@ -60,7 +60,6 @@ En definitiva, Letterboxd exemplifica molt bé la idea de Manovich que el softwa
 ## Recursos
 
 - [Web oficial de Letterboxd](https://letterboxd.com/)
-- [Conoce Letterboxd: la red social para los amantes del cine](https://canalsenior.es/videos/conoce-letterboxd-la-red-social-para-los-amantes-del-cine/)
 - [El fenómeno Letterboxd y la nueva crítica de cine](https://www.ecartelera.com/noticias/fenomeno-letterboxd-hemos-hecho-critica-cine-espacio-83627/)
 - [El fenómeno Letterboxd: más que una página para cinéfilos](https://fintualist.com/chile/cultura/cine-series/el-fenomeno-letterboxd-mas-que-una-pagina-para-cinefilos/)
 - [Letterboxd, Film Discussion Platform, Sells to Investment Firm](https://www.hollywoodreporter.com/business/digital/film-discussion-review-platform-letterboxd-sells-investment-firm-1235604433/)
