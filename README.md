@@ -3,6 +3,9 @@
 ## Autora
 Berta Arias Guarro
 
+## Assignatura
+Cultura Digital
+
 ## Introducció
 
 L’era digital ha transformat la manera com consumim, produïm i compartim els continguts culturals. En *El software toma el mando*, Lev Manovich planteja com el programari ha deixat de ser una eina tècnica per convertir-se en una infraestructura cultural on s’organitzen gran part de les experiències digitals contemporànies. L’autor menciona que el software no només condiciona la manera d’interactuar amb els mitjans, sinó que també redefineix les formes de comunicació, creació i participació dins l’entorn digital.
@@ -54,6 +57,7 @@ Letterboxd mostra com el software ha transformat la manera de relacionar-nos amb
 Aquesta transformació també afecta directament la crítica cinematogràfica. Tradicionalment, les ressenyes i recomanacions estaven principalment en mans de crítics professionals o mitjans especialitzats. Amb plataformes com Letterboxd, qualsevol usuari pot generar contingut, influir en altres persones i participar activament en converses culturals sobre cinema. Això democratitza la crítica, però al mateix temps introdueix una nova lògica social i algorítmica en la manera com es consumeixen i valoren les pel·lícules (Fintualist, 2024).
 
 També és interessant veure com la plataforma fomenta una cultura de la remescla i la classificació constant. Les llistes personalitzades, els rànquings o les recomanacions creen noves formes de reinterpretar el cinema a partir de connexions personals i col·lectives. El software deixa de ser una simple eina de consulta per convertir-se en un espai actiu de participació i producció cultural.
+
 Finalment, el creixement i la consolidació de Letterboxd dins la indústria audiovisual demostren com aquest tipus de plataformes s’han convertit en espais culturals amb una influència real sobre les formes de consum i descoberta del cinema contemporani (Hollywood Reporter, 2023).
 
 En definitiva, Letterboxd exemplifica molt bé la idea de Manovich que el software no només condiciona la manera com interactuem amb els mitjans, sinó que també redefineix les pràctiques culturals contemporànies i les formes de participació digital (Manovich, 2013).
@@ -105,8 +109,6 @@ També és interessant observar com Figma ha modificat la relació entre disseny
 
 ![Interfície de Figma](images/figma-project.png)
 
-## Recursos
-
 ---
 
 # Conclusions
@@ -125,12 +127,21 @@ En definitiva, les teories de Manovich continuen sent útils per entendre molts 
 
 Manovich, Lev (2013). *El software toma el mando*. Barcelona: Editorial UOC.
 eCartelera (2024). «El fenómeno Letterboxd y la nueva crítica de cine». [Recurs en línia]. Disponible a: https://www.ecartelera.com/noticias/fenomeno-letterboxd-hemos-hecho-critica-cine-espacio-83627/
+
 Fintualist (2024). «El fenómeno Letterboxd: más que una página para cinéfilos». [Recurs en línia]. Disponible a: https://fintualist.com/chile/cultura/cine-series/el-fenomeno-letterboxd-mas-que-una-pagina-para-cinefilos/
+
 The Hollywood Reporter (2023). «Letterboxd, Film Discussion Platform, Sells to Investment Firm». [Recurs en línia]. Disponible a: https://www.hollywoodreporter.com/business/digital/film-discussion-review-platform-letterboxd-sells-investment-firm-1235604433/
+
 ScreenHub (2024). «The Letterboxd Phenomenon: Why Film Lovers Love This App». [Recurs en línia]. Disponible a: https://www.screenhub.com.au/news/features/the-letterboxd-phenomenon-why-film-lovers-love-this-app-2659530/
+
 Letterboxd (s.d.). «Letterboxd». [Consulta: maig 2026]. Disponible a: https://letterboxd.com/
+
 Code3 (2024). «The Figma Effect: How Collaborative Design Is Reshaping Brand Architecture». [Recurs en línia]. Disponible a: https://code3.com/resources/the-figma-effect-how-collaborative-design-is-reshaping-brand-architecture/
+
 Medium (2024). «Inside Figma: The Backbone of Modern Design Collaboration». [Recurs en línia]. Disponible a: https://medium.com/@solinda90/inside-figma-the-backbone-of-modern-design-collaboration-1ee5a2ae1227
+
 Startup Shortcut (2024). «How Figma Built a Collaborative Design Empire and Disrupted Adobe». [Recurs en línia]. Disponible a: https://startupshortcut.com/knowledge-base/how-figma-built-a-collaborative-design-empire-and-disrupted-adobe
+
 Neural Capital (2024). «The Design Renaissance: Figma’s IPO and the New Era of Collaborative Creation». [Recurs en línia]. Disponible a: https://www.neuralcapital.ai/articles/the-design-renaissance-figma-s-ipo-and-the-new-era-of-collaborative-creation
+
 Figma (s.d.). «Figma». [Consulta: maig 2026]. Disponible a: https://www.figma.com/
