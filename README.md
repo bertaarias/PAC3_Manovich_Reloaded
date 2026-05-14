@@ -1,11 +1,11 @@
 # PAC3_Manovich_Reloaded
 
-## Autor
+## Autora
 Berta Arias Guarro
 
 ## Introducció
 
-L’era digital ha transformat la manera com consumim, produïm i compartim els continguts culturals. En El software toma el mando, Lev Manovich planteja com el programari ha deixat de ser una eina tècnica per convertir-se en una infraestructura cultural on s’organitzen gran part de les experiències digitals contemporànies. L’autor menciona que el software no només condiciona la manera d’interactuar amb els mitjans, sinó que també redefineix les formes de comunicació, creació i participació dins l’entorn digital.
+L’era digital ha transformat la manera com consumim, produïm i compartim els continguts culturals. En *El software toma el mando*, Lev Manovich planteja com el programari ha deixat de ser una eina tècnica per convertir-se en una infraestructura cultural on s’organitzen gran part de les experiències digitals contemporànies. L’autor menciona que el software no només condiciona la manera d’interactuar amb els mitjans, sinó que també redefineix les formes de comunicació, creació i participació dins l’entorn digital.
 
 Conceptes com la remediació, el multimèdia i la hibridació permeten entendre com moltes plataformes actuals fusionen funcions i experiències que abans existien de manera separada. Les xarxes socials, les bases de dades, les eines creatives o els algoritmes de recomanació conviuen dins d’un mateix ecosistema digital que genera noves formes de relació entre usuaris, contingut i tecnologia. Manovich afirma que els nous mitjans no es limiten a reproduir formats anteriors, sinó a transformar radicalment la manera com aquests són experimentats i compartits.
 
