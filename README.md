@@ -55,9 +55,9 @@ També és interessant observar com la plataforma fomenta una cultura de la reme
 
 En definitiva, Letterboxd exemplifica molt bé la idea de Manovich que el software no només condiciona la manera com interactuem amb els mitjans, sinó que també redefineix les pràctiques culturals contemporànies i les formes de participació digital.
 
-## Recursos
-
 ![Captura de Letterboxd](images/letterboxd-screen.png)
+
+## Recursos
 
 - [Web oficial de Letterboxd](https://letterboxd.com/)
 - [Conoce Letterboxd: la red social para los amantes del cine](https://canalsenior.es/videos/conoce-letterboxd-la-red-social-para-los-amantes-del-cine/)
