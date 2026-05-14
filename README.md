@@ -110,6 +110,13 @@ Al mateix temps, Figma mostra com les interfícies digitals actuals prioritzen c
 
 En definitiva, Figma representa molt bé la idea de Manovich que el software no és només una eina tècnica, sinó una infraestructura cultural capaç de reorganitzar les formes de creació, comunicació i treball col·laboratiu dins la societat digital contemporània.
 
+![Interfície de Figma](images/figma-project.png)
+
+## Recursos
+
+- [Web oficial de Figma](https://www.figma.com/)
+- [Vídeo explicatiu sobre Figma](LINK)
+
 ---
 
 # Conclusions
