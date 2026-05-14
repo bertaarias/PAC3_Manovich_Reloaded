@@ -39,7 +39,7 @@ A més, Letterboxd transforma la relació tradicional amb el cinema. Veure una p
 
 ## Relació amb Manovich
 
-Des de la perspectiva de Lev Manovich, Letterboxd es pot entendre com un exemple clar de software cultural, ja que no només permet consumir contingut audiovisual, sinó també organitzar-lo, reinterpretar-lo i compartir-lo dins d’un entorn digital interactiu (Manovich, 2013). La plataforma mostra molt bé com el software transforma objectes culturals tradicionals —en aquest cas el cinema i la crítica cinematogràfica— en experiències digitals híbrides basades en dades, interfícies i participació col·lectiva.
+Des de la perspectiva de Lev Manovich, Letterboxd es pot entendre com un exemple clar de software cultural, ja que no només permet consumir contingut audiovisual, sinó també organitzar-lo, reinterpretar-lo i compartir-lo dins d’un entorn digital interactiu (Manovich, 2013). La plataforma mostra molt bé com el software transforma objectes culturals tradicionals (en aquest cas el cinema i la crítica cinematogràfica) en experiències digitals híbrides basades en dades, interfícies i participació col·lectiva.
 
 També es pot relacionar amb el concepte de remediació, ja que Letterboxd adapta formats previs com els diaris personals de cinema, les revistes de crítica o els catàlegs cinematogràfics i els converteix en una plataforma digital social i interactiva. Aquest procés no consisteix només a digitalitzar formats anteriors, sinó a transformar-los mitjançant funcions pròpies del software, com les recomanacions algorítmiques, les estadístiques personals o les llistes compartides.
 
