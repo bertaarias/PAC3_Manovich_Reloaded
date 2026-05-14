@@ -115,7 +115,10 @@ En definitiva, Figma representa molt bé la idea de Manovich que el software no 
 ## Recursos
 
 - [Web oficial de Figma](https://www.figma.com/)
-- [Vídeo explicatiu sobre Figma](LINK)
+- [The Figma Effect: How Collaborative Design Is Reshaping Brand Architecture](https://code3.com/resources/the-figma-effect-how-collaborative-design-is-reshaping-brand-architecture/)
+- [Inside Figma: The Backbone of Modern Design Collaboration](https://medium.com/@solinda90/inside-figma-the-backbone-of-modern-design-collaboration-1ee5a2ae1227)
+- [How Figma Built a Collaborative Design Empire and Disrupted Adobe](https://startupshortcut.com/knowledge-base/how-figma-built-a-collaborative-design-empire-and-disrupted-adobe)
+- [The Design Renaissance: Figma’s IPO and the New Era of Collaborative Creation](https://www.neuralcapital.ai/articles/the-design-renaissance-figma-s-ipo-and-the-new-era-of-collaborative-creation)
 
 ---
 
