@@ -145,3 +145,9 @@ Startup Shortcut (2024). «How Figma Built a Collaborative Design Empire and Dis
 Neural Capital (2024). «The Design Renaissance: Figma’s IPO and the New Era of Collaborative Creation». [Recurs en línia]. Disponible a: https://www.neuralcapital.ai/articles/the-design-renaissance-figma-s-ipo-and-the-new-era-of-collaborative-creation
 
 Figma (s.d.). «Figma». [Consulta: maig 2026]. Disponible a: https://www.figma.com/
+
+# Ús de la IA
+
+En aquest treball s’ha fet un ús puntual d’eines d’intel·ligència artificial com a suport per a la revisió lingüística, la reorganització d’idees i la millora de la redacció. També s’han utilitzat com a ajuda en la cerca d’articles, recursos complementaris i informació relacionada amb els casos analitzats, seguint les recomanacions d’ús responsable de la UOC.
+
+En cap cas s’ha utilitzat la IA per generar íntegrament el contingut del treball, prioritzant sempre l’elaboració pròpia, la selecció personal dels casos d’estudi i la reflexió crítica desenvolupada al llarg de l’assaig.
